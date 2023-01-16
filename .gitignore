@@ -1,8 +1,0 @@
-express-apt-14-main/.env
-express-apt-14-main/node_modules
-express-apt-14-main/.gitignore
-express-apt-14-main/package-lock.json
-todos/.env
-todos/node_modules
-todos/.gitignore
-todos/package-lock.json
